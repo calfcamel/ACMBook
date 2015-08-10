@@ -11,4 +11,5 @@
    * [逆元](math/逆元.md)
    * [素数](math/素数.md)
 * [比赛题解](比赛题解/README.md)
+   * Codeforces Round #314 (Div. 2)
 
